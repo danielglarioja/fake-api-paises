@@ -49,6 +49,26 @@
     {
       "empresa": "Empresa5"
     }
+  ],
+  "puestosApi": [
+    {
+      "puesto": "Puesto1",
+      "empresa": "PuestoEmpresa1",
+      "pais": "PuestoPais1",
+      "ciudad": "PuestoCiudad1"
+    },
+    {
+      "puesto": "Puesto2",
+      "empresa": "PuestoEmpresa2",
+      "pais": "PuestoPais2",
+      "ciudad": "PuestoCiudad2"
+    },
+    {
+      "puesto": "Puesto3",
+      "empresa": "PuestoEmpresa3",
+      "pais": "PuestoPais3",
+      "ciudad": "PuestoCiudad3"
+    }
   ]
   
 }
