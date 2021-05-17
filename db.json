@@ -1,19 +1,54 @@
 {
   "paisesApi": [
     {
-      "pais": "Pais 1"
+      "pais": "Pais1"
     },
     {
-      "pais": "Pais 2"
+      "pais": "Pais2"
     },
     {
-      "pais": "Pais 3"
+      "pais": "Pais3"
     },
     {
-      "pais": "Pais 4"
+      "pais": "Pais4"
     },
     {
-      "pais": "Pais 5"
+      "pais": "Pais5"
+    }
+  ],
+  "ciudadesApi": [
+    {
+      "ciudad": "Ciudad1"
+    },
+    {
+      "ciudad": "Ciudad2"
+    },
+    {
+      "ciudad": "Ciudad3"
+    },
+    {
+      "ciudad": "Ciudad4"
+    },
+    {
+      "ciudad": "Ciudad5"
+    }
+  ],
+  "empresasApi": [
+    {
+      "empresa": "Empresa1"
+    },
+    {
+      "empresa": "Empresa2"
+    },
+    {
+      "empresa": "Empresa3"
+    },
+    {
+      "empresa": "Empresa4"
+    },
+    {
+      "empresa": "Empresa5"
     }
   ]
+  
 }
